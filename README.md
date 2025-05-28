@@ -1,29 +1,36 @@
 # aDIGINTROVERT Platform
 
-Centralized asset repository for marketing and advertising operations.
+Welcome to the professional marketing and digital operations platform for aDigitrovert!
 
-## Repository Structure
+## 📁 Repository Structure
 
-This repository serves as the central hub for all aDIGINTROVERT assets, campaigns, and operational materials.
+- `campaigns/` — Campaign management and templates
+- `client-deliverables/` — Client reports, assets, strategies
+- `content/` — Blog articles, case studies, and copywriting
+- `creative-assets/` — Ads, brand materials, and media library
+- `digital-properties/` — All web/mobile assets and apps
+- `internal-operations/` — Workflows, automation, internal docs
+- `research-insights/` — Market research, performance data, competitor insights
+- `standards/` — Brand and quality standards
 
-### Main Directories:
+## 🚀 Quick Start
 
-- **campaigns/** - Active and completed marketing campaigns
-- **creative-assets/** - Brand materials, media library, and creative assets
-- **content/** - Written content including copy, articles, and documentation
-- **digital-properties/** - Websites, mobile apps, and web applications
-- **client-deliverables/** - Final client presentations and materials
-- **internal-operations/** - Internal processes and operational tools
-- **research-insights/** - Market research and data insights
-- **standards/** - Company standards and guidelines
+\`\`\`bash
+git clone https://github.com/aDigIntroverCo/adigintrovert-platform.git
+cd adigintrovert-platform
+\`\`\`
 
-## Getting Started
+See each directory’s \`README.md\` for more info.
 
-1. Review the standards directory for naming conventions and file organization
-2. Check existing templates before creating new campaigns
-3. Follow the established folder structure for consistency
-4. Ensure proper documentation for all assets and campaigns
+---
 
-## Contributing
+## 👥 Contributors
 
-Please follow the established folder structure and naming conventions when adding new assets or campaigns.
+- [David Vieira](mailto:info@adigintrovert.com)
+
+---
+
+## 🛡️ License
+
+Copyright © 2024 aDIGINTROVERT.  
+All Rights Reserved.

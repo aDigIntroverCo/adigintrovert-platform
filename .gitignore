@@ -1,39 +1,20 @@
-# OS generated files
+# macOS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+.AppleDouble
+.LSOverride
 
-# Temporary files
-*.tmp
-*.temp
-~$*
-
-# Adobe files
-*.ai~
-*.psd~
-*.indd~
-
-# Video/Audio temp files
-*.mov~
-*.mp4~
-*.avi~
-*.mp3~
-
-# Large files (consider using Git LFS)
-*.zip
-*.rar
-*.7z
-
-# Cache files
-.cache/
+# Node
 node_modules/
-.env
-.env.local
+npm-debug.log*
 
-# Build outputs
-dist/
-build/
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Others
+*.env
+*.bak
+*.tmp
