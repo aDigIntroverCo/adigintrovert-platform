@@ -1,36 +1,20 @@
 # aDIGINTROVERT Platform
 
-Welcome to the professional marketing and digital operations platform for aDigitrovert!
+Professional marketing and digital solutions platform for 2025 and beyond.
 
-## 📁 Repository Structure
+## Repository Structure
 
-- `campaigns/` — Campaign management and templates
-- `client-deliverables/` — Client reports, assets, strategies
-- `content/` — Blog articles, case studies, and copywriting
-- `creative-assets/` — Ads, brand materials, and media library
-- `digital-properties/` — All web/mobile assets and apps
-- `internal-operations/` — Workflows, automation, internal docs
-- `research-insights/` — Market research, performance data, competitor insights
-- `standards/` — Brand and quality standards
+- **campaigns**: All marketing campaign materials, including active, completed, and template campaigns.
+- **client-deliverables**: Deliverables provided to clients: final assets, presentations, reports, and strategy docs.
+- **content**: Blog articles, case studies, and all forms of copywriting.
+- **creative-assets**: Ad creatives, brand materials, and media resources.
+- **digital-properties**: Mobile apps, web applications, and websites.
+- **internal-operations**: Internal tools, automation scripts, processes, and documentation.
+- **research-insights**: Audience, market, and competitor research; analytics.
+- **standards**: Company policies, branding, quality, and naming conventions.
 
-## 🚀 Quick Start
+## License
 
-\`\`\`bash
-git clone https://github.com/aDigIntroverCo/adigintrovert-platform.git
-cd adigintrovert-platform
-\`\`\`
-
-See each directory’s \`README.md\` for more info.
+All Rights Reserved © 2025 aDIGINTROVERT. Unauthorized copying, modification, or distribution is strictly prohibited.
 
 ---
-
-## 👥 Contributors
-
-- [David Vieira](mailto:info@adigintrovert.com)
-
----
-
-## 🛡️ License
-
-Copyright © 2025 aDIGINTROVERT.  
-All Rights Reserved.
