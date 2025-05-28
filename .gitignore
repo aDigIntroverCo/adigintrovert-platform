@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Adobe files
+*.ai~
+*.psd~
+*.indd~
+
+# Video/Audio temp files
+*.mov~
+*.mp4~
+*.avi~
+*.mp3~
+
+# Large files (consider using Git LFS)
+*.zip
+*.rar
+*.7z
+
+# Cache files
+.cache/
+node_modules/
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
