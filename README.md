@@ -32,5 +32,5 @@ See each directory’s \`README.md\` for more info.
 
 ## 🛡️ License
 
-Copyright © 2024 aDIGINTROVERT.  
+Copyright © 2025 aDIGINTROVERT.  
 All Rights Reserved.
